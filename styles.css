@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heard{padding-left:47px;
+    margin-left:42px;
+    margin-top:20px ;
+     }
+
+
+
+.limk-menu {
+    font-weight: 400px;
+    font-size: 25px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.785px;
+    color: #0c0308;
+    margin-right: 32px;
+}
+
+.butoon-sigh-up {
+    background: #9df878;
+
+    border: 1px solid #4CB538;
+    border-radius: 5PX;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    color: rgb(13, 24, 34)
+}
+
+.bot2 {
+    color: #0c0308;
+    border: 1px solid;
+    font-size: 12px;
+    background-color: #9df878;
+    border-radius: 5px;
+    border: 1px solid;
+    width: 100px;
+    height: 40px; ;
+    cursor: pointer;
+}
+
+
+img {
+    margin: 123px 0 0 123px;
+    width: 100vh;
+    height: 70vh;
+
+    P
+    margin-bottom: 70px;
+}
+
+.image {
+    padding-right: 100px;}
+
+div{align-items: center;}
+
+
+.div2{margin
+    : 150px;
+;}
+
